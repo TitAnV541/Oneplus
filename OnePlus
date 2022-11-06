@@ -3,7 +3,7 @@
             <title> OnePlus </title>
 		<style>
 			.head{ 
-				border: 4px outset brown;
+				border: 4px outset black;
 				text-align: centre;
 			}
 			h1{text-align: center}
@@ -15,18 +15,17 @@
 				padding: 1px;
 			}
 			.para{border:1px outset white}
-			.labels{ text-color: white}
+			.labels{ text-color: black}
 		</style>
        </head>
-       <body style background="p1.jpg">
+       <body style background="color:aqua">
 	       <div class="head">
-             <h1 style="color:red"> OnePlus-A new age phone </h1>
+             <h1 style="color:black"> OnePlus - Never Settle </h1>
 	       </div>
 	       <div class="para">
-             <p style="color:yellow"> OnePlus Technology (Shenzhen) Co., Ltd.doing business as OnePlus, is a Chinese consumer electronics manufacturer headquartered
-             in Shenzhen, Guangdong.[6] It is wholly owned by Oppo, which is in turn a subsidiary of BBK Electronics along with Vivo, Realme and iQOO.doing business 
-             as OnePlus, is a Chinese consumer electronics manufacturer headquartered in Shenzhen, Guangdong.[6] It is wholly owned by Oppo, which is in turn a 
-             subsidiary of BBK Electronics along with Vivo, Realme and iQOO.OnePlus mobile phones are available in 34 countries. This Chinese smartphone manufacturer 
+             <p style="color:black"> OnePlus Technology (Shenzhen) Co., Ltd.doing business as OnePlus, is a Chinese consumer electronics manufacturer headquartered
+             in Shenzhen, Guangdong. It is wholly owned by Oppo, which is in turn a subsidiary of BBK Electronics along with Vivo, Realme and iQOO.OnePlus mobile
+	     phones are available in 34 countries. This Chinese smartphone manufacturer 
              is known for offering high-end features at affordable prices compared to other brands in the same segment.It wouldn’t be unfair to say that OnePlus 
              was once a bootstrapped startup but has progressed to become a global sensation. So much so that the OnePlus success story is taught as a case study
              for aspiring managers at business schools.Known as ‘Flagship killers’, OnePlus mobile phones have come a long way. Here is a list of the top 7 features 
@@ -75,7 +74,7 @@
 	       <br><br><br>
 	       <div class="r">
 		       <div class="c">
-			       <p style="color: blue"> TIMELINE </p>
+			       <p style="color: black"> MODELS </p>
 			       <p style="color: white"> <br>
 							PUBG | 2017 <br>
 							PUBG Mobile: Dream Team | 2018 <br>
@@ -90,7 +89,7 @@
 		       </div>
 		       <div class="c">
 			       <br>
-			       <img src="pubg.jpg" width="500" height="300" />
+			       <img src="61RdG7c+VUL._SL1000_.jpg" width="500" height="300" />
 		       </div>
 	       </div>
 		<p style="color: blue"> To know more about us register: </p>
